@@ -1,0 +1,10 @@
+Package: big-cinnamon-applets
+Version: 0.0.2-0big6
+Architecture: all
+Maintainer: elpadre <paulusiohannes@gmail.com>
+Depends: cinnamon
+Priority: optional
+Installed-Size:6084
+Description: Default applets for BigLinux Cinnamon Desktop.
+
+

@@ -1,0 +1,18 @@
+{
+    "website": "https://github.com/Odyseus/CinnamonTools", 
+    "multiversion": true, 
+    "last-edited": 1502495707, 
+    "contributors": "See this xlet help file.", 
+    "max-instances": -1, 
+    "dangerous": false, 
+    "uuid": "0dyseus@CustomCinnamonMenu", 
+    "comments": "Bug reports, feature requests and contributions should be done on this xlet's repository linked next.", 
+    "name": "Custom Cinnamon Menu", 
+    "version": "1.25", 
+    "cinnamon-version": [
+        "3.0", 
+        "3.2", 
+        "3.4"
+    ], 
+    "description": "Custom version of the default Cinnamon Menu applet, but infinitely more customizable."
+}
